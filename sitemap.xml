@@ -1,65 +1,164 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-	<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-		<url>
-			<loc>https://cklearn.cf</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://cklearn.cf/physics.html</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://cklearn.cf/page2.html</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://cklearn.cf/page3.html</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://cklearn.cf/index.html#team2-n</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://cklearn.cf/index.html#top</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://cklearn.cf/index.html#contacts2-a</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://cklearn.cf/index.html#features2-4</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://cklearn.cf/physics.html#top</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://cklearn.cf/tel:+14387998304</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://cklearn.cf/terms.html</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://cklearn.cf/policy.html</loc>
-			<changefreq>weekly</changefreq>
-		</url>
-
-	</urlset>
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://cklearn.cf/</loc>
+	<lastmod>2022-02-11T10:21:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/physics.html</loc>
+	<lastmod>2022-02-11T10:21:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/page2.html</loc>
+	<lastmod>2022-02-11T10:21:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog.html</loc>
+	<lastmod>2022-02-11T10:21:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/page3.html</loc>
+	<lastmod>2022-02-11T10:21:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog27.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog26.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog25.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog24.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog23.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog22.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog21.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog20.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog19.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog18.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog17.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog16.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog15.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog14.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog13.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog12.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog11.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog10.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog9.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog8.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog7.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog6.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog5.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog2.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog3.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/page6.html</loc>
+	<lastmod>2022-02-11T10:21:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cklearn.cf/blog4.html</loc>
+	<lastmod>2022-02-11T10:21:56+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
